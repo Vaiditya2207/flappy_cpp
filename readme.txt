@@ -1,1 +1,0 @@
-this assets are from original game made by .GEARS
