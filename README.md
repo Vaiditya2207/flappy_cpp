@@ -15,6 +15,3 @@ Save file is located in `ux0:data\flappy_bird.save` you can simply edit it<br>
 Here is template : `record` <b>Do not make extra spaces</b><br>
 Here is example : `2048` score ceil number<br>
 To reset saves just delete *.save file
-## Thanks to
-* [xerpi](https://github.com/xerpi/) - [vita2d](https://github.com/xerpi/libvita2d)<br>
-* [VITASDK team](https://github.com/vitasdk) - VitaSDK
