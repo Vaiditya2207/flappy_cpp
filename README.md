@@ -1,7 +1,3 @@
-# Flappy-Bird-Classic-vita
-Simple flappy bird clone for PS Vita<br>
-[<img src="https://img.shields.io/github/downloads/Creckeryop/Flappy-Bird-Classic-vita/total">](https://github.com/Creckeryop/Flappy-Bird-Classic-vita/releases)
-[<img src="https://img.shields.io/github/v/release/Creckeryop/Flappy-Bird-Classic-vita">](https://github.com/Creckeryop/Flappy-Bird-Classic-vita/releases/latest)
 <img src="screenshots/screenshots.gif">
 ## Features
 * Saves
